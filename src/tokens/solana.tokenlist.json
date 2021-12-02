@@ -35024,6 +35024,22 @@
     },
     {
       "chainId": 101,
+      "address": "Zisrs1d51dgFgqcxB9gh6x4ciRm44vDqCAJZqwew1mE",
+      "symbol": "RTCU",
+      "name": "Rattus Coinus",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Zisrs1d51dgFgqcxB9gh6x4ciRm44vDqCAJZqwew1mE/logo.png",
+      "tags": [
+        "Utility-token",
+        "Funny-token"
+        
+      ],
+      "extensions": {
+        
+      }
+    },
+    {
+      "chainId": 101,
       "address": "nzN5LqVJJmbuFMiWETDvVh519MwUp7qdb7QV9r5xA8S",
       "symbol": "BTT",
       "name": "Beleven Test Token",
@@ -35057,3 +35073,6 @@
     "patch": 3
   }
 }
+
+
+  
